@@ -1,3 +1,1 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://github-production-user-asset-6210df.s3.amazonaws.com/147782106/288700208-7f35d1e4-fcdd-440c-91d3-8ebbe9060c35.gif" alt=”my banner”>
-</p>
+![Abhijit sah](https://github.com/Abhijit-Sah/Abhijit-Sah/assets/147782106/b352ac00-f5b4-4416-a8cd-a212f7a30126)
