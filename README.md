@@ -1,1 +1,1 @@
-<img src="https://github.com/Abhijit-Sah/Avi/assets/147782106/ae2a4091-4ea4-4f39-b216-4ce198821b7f" alt="my banner">
+<img src="https://www.canva.com/design/DAF2SOa5NwA/oZVKuL92rurByhb1AcK3Iw/edit?utm_content=DAF2SOa5NwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="my banner">
